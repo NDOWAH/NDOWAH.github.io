@@ -3,4 +3,4 @@
 # Machine Learning Enthusiast
 
 ## Education
-### BSc Mathematics
+BSc Mathematics
